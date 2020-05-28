@@ -1,0 +1,93 @@
+[
+
+	{
+	"posizioneOrizzontale": 450,
+	"posizioneVerticale": 100,
+	"lunghezza": 45,
+	"larghezza": 85,
+	"lunghezzaGambe": 12,
+	"dimensioneOcchi": 3
+	},
+
+	{
+	"posizioneOrizzontale": 1350,
+	"posizioneVerticale": 400,
+	"lunghezza": 25,
+	"larghezza": 55,
+	"lunghezzaGambe": 26,
+	"dimensioneOcchi": 5
+	},
+
+	{
+	"posizioneOrizzontale": 150,
+	"posizioneVerticale": 100,
+	"lunghezza": 65,
+	"larghezza": 50,
+	"lunghezzaGambe": 45,
+	"dimensioneOcchi": 3
+	},
+
+	{
+	"posizioneOrizzontale": 1050,
+	"posizioneVerticale": 100,
+	"lunghezza": 95,
+	"larghezza": 60,
+	"lunghezzaGambe": 20,
+	"dimensioneOcchi": 12
+	},
+
+	{
+	"posizioneOrizzontale": 1350,
+	"posizioneVerticale": 100,
+	"lunghezza": 50,
+	"larghezza": 50,
+	"lunghezzaGambe": 41,
+	"dimensioneOcchi": 6
+	},
+
+	{"posizioneOrizzontale": 150,
+	"posizioneVerticale": 400,
+	"lunghezza": 20,
+	"larghezza": 20,
+	"lunghezzaGambe": 43,
+	"dimensioneOcchi": 3
+	},
+
+	{
+	"posizioneOrizzontale": 450,
+	"posizioneVerticale": 400,
+	"lunghezza": 120,
+	"larghezza": 95,
+	"lunghezzaGambe": 60,
+	"dimensioneOcchi": 7
+	},
+
+	{
+	"posizioneOrizzontale": 750,
+	"posizioneVerticale": 400,
+	"lunghezza": 95,
+	"larghezza": 40,
+	"lunghezzaGambe": 10,
+	"dimensioneOcchi": 7
+	},
+
+	{
+	"posizioneOrizzontale": 750,
+	"posizioneVerticale": 100,
+	"lunghezza": 50,
+	"larghezza": 15,
+	"lunghezzaGambe": 46,
+	"dimensioneOcchi": 5
+	},
+
+	{
+	"posizioneOrizzontale": 1050,
+	"posizioneVerticale": 400,
+	"lunghezza": 80,
+	"larghezza": 90,
+	"lunghezzaGambe": 44,
+	"dimensioneOcchi": 3
+	}
+
+
+]
